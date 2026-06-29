@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/halt-mich-noch-einmal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Halt mich noch einmal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/halt-mich-noch-einmal/) |
+| **Get License** | [Commercial Licensing for Halt mich noch einmal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/halt-mich-noch-einmal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `08a9e1084d445d5653299eef802b94c60a0be2c88931be67f08883c88c352ab3` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
