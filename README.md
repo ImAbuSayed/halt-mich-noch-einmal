@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/halt-mich-noch-einmal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Halt mich noch einmal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/halt-mich-noch-einmal/) |
+| **Get License** | [Music Rights & Licensing for Halt mich noch einmal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/halt-mich-noch-einmal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Halt mich noch einmal fest, bevor der Himmel bricht
+> Wir gleiten durch die Stadt im hellen Neonlicht
+> Lass uns verschwinden, Baby, ganz egal wohin
+> Du bist der einzige Grund, warum ich heute wach bin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
